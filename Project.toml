@@ -1,0 +1,13 @@
+name = "DeepNets"
+uuid = "9d5a9bbe-7cfa-49b4-a646-169dd1e19d5e"
+authors = ["Firat Melih Yilmaz", "Dokuz Eylul University"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
